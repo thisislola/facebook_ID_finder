@@ -12,7 +12,7 @@ Useful for OSINT investigations or other stuff.
 
 **Run:** 
 
-    python fbid_finder.py https://www.facebook.com/ellendegeneres
+    python fbid_finder.py https://www.facebook.com/johnsmith
    
 **Output:**
 
