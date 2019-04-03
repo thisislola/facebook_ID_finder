@@ -12,7 +12,7 @@ import argparse
 
 # Argument Parser 
 parser = argparse.ArgumentParser()
-parser.add_argument("url", help="You idiot")
+parser.add_argument("url", help="It needs a facebook profile URL such as https://www.facebook.com/username")
 
 args = parser.parse_args()
 url = args.url
